@@ -1,4 +1,4 @@
-The [[Lunar Databank]] is intended to eventually be a unified cross-platform system for containing all of the information I learn and data I'd like to store. The long-term goal is to be able to safely move data from devices (iPhone, Laptop) with less powerful storage to those with more powerful storage (Desktop, Personal Server).
+The [[00.00 Lunar Databank]] is intended to eventually be a unified cross-platform system for containing all of the information I learn and data I'd like to store. The long-term goal is to be able to safely move data from devices (iPhone, Laptop) with less powerful storage to those with more powerful storage (Desktop, Personal Server).
 
 # 1. Initial Considerations
 
@@ -26,7 +26,7 @@ Software
 - Problem Three: Syncing to IOS does not support certain features. (SSH, Size Limit, Rebase Merge Not Allowed, Submodules Not Supported).
 	- Chosen Solution: There are two possible approaches that could resolve this issue. 
 		- Connect Obsidian to iCloud and setting up iCloud on a computer. After this, it should be possible to collect [[Mercury Database]] changes from iCloud on a designated PC and push those changes to GitHub.
-		- Send Messages from the iPhone to a email/texting service connected to a PC. Messages of this type are stored in a holding location on the [[Lunar Databank]] to manually sort and organize later.
+		- Send Messages from the iPhone to a email/texting service connected to a PC. Messages of this type are stored in a holding location on the [[00.00 Lunar Databank]] to manually sort and organize later.
 
 **Organizational Problems**
 - Problem One: The Lunar Databank must have a clearly defined structure methodology to improve upon later, but there are many methods to choose from that all may need adjustments.
@@ -46,4 +46,11 @@ Assumptions:
 	- Use tags associated with each Map of Contents (IE: Nonfiction.Genre1, Fiction.Genre2)
 	- Use tags associated with any 'narrow-value'. Could be the title of a specific paper (to be indexed, could be the subject category. Level of specification is tied to the MOC that represents it. Lower tier MOC's should always be more specific)
 	- Use a specific ID to instantly locate a node.
+
+Planned Usage:
+For now I'll use a derivative system of the [[Johnny Decimal System]] in which there will be a central [[Map of Content]] where I house different categorize of Lunar-Databank use and organization. Each sub-category will follow the methodology of the traditional decimal system until otherwise determined. Initial use cases will include:
+- Information Discovery and Documentation
+- Project and Task Management
+- Journal for Chronology
+
 ![InitialLunarDatabaseFileOrganization.excalidraw|width:100px](InitialLunarDatabaseFileOrganization.excalidraw.md)
