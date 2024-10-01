@@ -32,3 +32,18 @@ Software
 - Problem One: The Lunar Databank must have a clearly defined structure methodology to improve upon later, but there are many methods to choose from that all may need adjustments.
 	- Chosen Solution: Researched constructing a [[Personal Knowledge Management System]] to understand standard data structures and methodologies and develop the following system for organizing the data.
 
+
+Assumptions: 
+- A node can expand in these ways.
+	- 1. When documenting, a page is created for a sub-document atomizing some sub-topic within the original page.
+	- 2. When documenting, a parent page is created in order to detail a broader topic surrounding the subject. Making this article an atomized sub-document.
+	- 3. When documenting, a topic is discovered that connects to a third already discussed topic. This non-sub non-super category of note is a bridge connection.
+	- 4. When logging, a standardized page is created to fill a new node and append it to a connected area/list (reference, message, project, date, etc).
+
+- I may want to navigate the data by.
+	- Having a view for certain types of pages (Calendar for Dates)
+	- Having certain screens designed to hold lists of ordered objects (Journal, Project Tasks)
+	- Use tags associated with each Map of Contents (IE: Nonfiction.Genre1, Fiction.Genre2)
+	- Use tags associated with any 'narrow-value'. Could be the title of a specific paper (to be indexed, could be the subject category. Level of specification is tied to the MOC that represents it. Lower tier MOC's should always be more specific)
+	- Use a specific ID to instantly locate a node.
+![InitialLunarDatabaseFileOrganization.excalidraw|width:100px](InitialLunarDatabaseFileOrganization.excalidraw.md)
