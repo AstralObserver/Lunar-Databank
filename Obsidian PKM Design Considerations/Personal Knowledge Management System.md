@@ -126,18 +126,6 @@ Article - fortelabs - A Complete Guide to Tagging for Personal Knowledge Managem
 	Goes over methodology for using tags in a PMKS.
 	https://fortelabs.com/blog/a-complete-guide-to-tagging-for-personal-knowledge-management/
 
-Article - Johnnydecimal - Introduction
-	Full documentation of the Johnny Decimal file system.
-	https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/
-
-Repository - Github - index-spec
-	Detailed specifications for a Johnny Decimal index file.
-	https://github.com/johnnydecimal/index-spec
-
-Post - Forum - Johnnydecimal - Alternative layout for the standard zeros
-	A detailed changed layout that creates 9 categories and many additional ID's
-	https://forum.johnnydecimal.com/t/the-standard-zeros/1558/11
-
 Post - Forum - Obsidian - An opinionated reflection on using folders, links, tags, and properties
 	A description of the core structures of obsidian and use-cases
 	https://forum.obsidian.md/t/an-opinionated-reflection-on-using-folders-links-tags-and-properties/78548

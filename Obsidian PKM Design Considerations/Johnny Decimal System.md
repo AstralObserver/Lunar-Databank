@@ -62,3 +62,18 @@ When placing an item one follows the same standard pattern:
 			2. Else: Place in 'ID'
 
 When retrieving an item, the process is identical with the only change being to "search for item in xxx" instead of "place in xxx".
+
+___
+References
+
+Article - Johnnydecimal - Introduction
+	Full documentation of the Johnny Decimal file system.
+	https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/
+
+Repository - Github - index-spec
+	Detailed specifications for a Johnny Decimal index file.
+	https://github.com/johnnydecimal/index-spec
+
+Post - Forum - Johnnydecimal - Alternative layout for the standard zeros
+	A detailed changed layout that creates 9 categories and many additional ID's
+	https://forum.johnnydecimal.com/t/the-standard-zeros/1558/11
