@@ -4,10 +4,12 @@ Subject #782 of the now infamous Ego Death Experiments preformed on station xxxx
 
 
 > [!NOTE] Evaluation of Subject #782 - 10/10/3491
-> Name: Riley Muldova  |  Date of Birth: xx/xx/xx
+> Name: Riley Muldova  |  Date of Birth: xx/xx/xx  |  Species: Human (Cybernetic Augmentation)
+> Gender: Nonbinary  |  Language: Terran - English
 > 
-> Height: 170.18 cm  |  Weight: 57.6062 kg
-> Gender: Nonbinary
+> Height: 170.18 cm  |  Weight: 57.6062 kg  |  Blood Type: O-
+> Current Medications: Priozine - 10mg Daily
+> 
 > 
 
 
