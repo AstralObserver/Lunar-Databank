@@ -23,3 +23,5 @@ Plexus is a [[Homunculi]] of the Persona variety. She was borne
 
 ## 0.2. Daemon
 "I haven't seen any normal person move like that. It wasn't exactly *elegant* but every misstep and correction happened so quickly that we didn't see until we played back the cameras."
+
+[[The Rorschach]]
