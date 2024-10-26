@@ -1,0 +1,5 @@
+Ichor-Aether
+
+A material that naturally forms in areas where there is a massive amount of potential to create change. This is theorized to be created as a result of some interaction with multiverses being created at any one point in time. The more possible actions and the more each moment's actions could effect the greater world/universe, the more Ichor-Aether will appear. This effect causes area with powerful weapons, more mass, more energy, and more decision-making by sentients with wide sway to have higher amounts of Aether to use.
+
+Ichor-Aether can be used to do effectively anything by directly storing 'change' and imparting that change on the world. The more simple the change, the less Ichor-Aether required. So moving an object or exciting particles to create fire might be trivial while altering powerful minds or shifting entire planets might require large amounts of Ichor-Aether. This material isn't "used" like a fuel, rather, it radiates it's power away from it. It does not decay, as the universes created are perpetual. This makes it a form of perpetual motion, with more slowly being created over time as the universe becomes more complex.
