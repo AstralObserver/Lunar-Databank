@@ -1,0 +1,1 @@
+Defined the collapse of modern civilization due to a mixture of climate change, global conflict, disease, and radiation.

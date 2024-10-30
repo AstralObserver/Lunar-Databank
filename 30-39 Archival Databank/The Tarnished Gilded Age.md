@@ -1,3 +1,0 @@
-[[Homunculi]]
-
-[[Sci-Fi Materials]]
