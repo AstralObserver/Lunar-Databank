@@ -1,0 +1,3 @@
+The Ego Death Experiments were given their nickname due to their interest in breaking down an individual's sense of self as much as possible to create as blank a slate as possible.
+
+The goal of the experiments was to explore previously noted connections between an individual's psyche and the strange quirk of Aether sometimes binding to an individual. It had been previously noted that Aether sometimes binds itself to certain patterns of thought at random, this process being the catalyst behind the creation of various forms of [[Homunculi]] which frequently occur as a result of interactions with [[Trans-Dimensional Entities]]
