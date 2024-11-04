@@ -1,1 +1,1 @@
-A trans-dimensional network of intelligence that is purely biological in nature. 
+A trans-dimensional network of intelligence that is purely biological in nature. This presents as a network of creatures that can directly share thoughts between one another in what can be roughly compared to telepathy.
