@@ -1,6 +1,6 @@
 Name Options: Matrix, Plexus,
 
-Subject #782 of the now infamous Ego Death Experiments preformed on station xxxxx was one of several semi-successful attempts to manipulate the process of Homunculi formation. This testing involved the heavy 
+Subject #782 of the now infamous [[Ego Death Experiments]] preformed on station xxxxx was one of several semi-successful attempts to manipulate the process of Homunculi formation. This testing involved the heavy 
 
 
 > [!NOTE] Evaluation of Subject #782 - 10/10/3491
