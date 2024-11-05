@@ -1,7 +1,7 @@
-# Summary
+# 1. Summary
 The Biphrol Station is the first instance of a stable inter-galactic station ever created. It stands as a testament to the power of one of the largest alliances in the Milky Way Galaxy. 
 
-# History
+# 2. History
 
 Created by the most powerful alliance in the Milky Way galaxy, so strong was their hold within their home galaxy that they were able to dedicated a vast amount of resources to finally closing the gap between galaxies.
 
